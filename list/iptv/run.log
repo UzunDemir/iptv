@@ -1,0 +1,703 @@
+Источников: 2
+[src]  https://iptv-org.github.io/iptv/countries/ru.m3u: 532 каналов
+[src]  https://iptv-org.github.io/iptv/languages/rus.m3u: 160 каналов
+Кандидатов к проверке: 692 (воркеров: 64, таймаут: 15 с)
+[fail] 15+ Music (1080p)  (connect error)
+[fail] alpha Cinema (1080p)  (connect error)
+[fail] BRIDGE Fresh (1080p)  (HTTP 403)
+[fail] Bollywood HD (1080p)  (HTTP 403)
+[fail] Auto Plus (576p)  (HTTP 403)
+[fail] Channel 5 (Russia) (576p)  (HTTP 403)
+[fail] Avto24 (1080i)  (HTTP 403)
+[ok]   .black (576p)  [1920x1080, 265 ms]
+[ok]   BRIDGE (576p)  [1024x576, 280 ms]
+[ok]   365 days TV (576p)  [1048x576, 280 ms]
+[ok]   .sci-fi (576p)  [1920x1080, 280 ms]
+[ok]   .red HD (1080p)  [1920x1080, 265 ms]
+[ok]   BRIDGE Rock (576p)  [1024x576, 265 ms]
+[ok]   BRIDGE Classic (576p)  [1024x576, 280 ms]
+[ok]   Baby Time (576p)  [1024x576, 265 ms]
+[ok]   Carousel +4 (720p)  [1048x576, 280 ms]
+[ok]   BRIDGE Deluxe HD (576p)  [1920x1080, 280 ms]
+[fail] Big Asia (720p)  (HTTP 403)
+[ok]   Channel 8 (Russia) (576p)  [hls, 186 ms]
+[ok]   1HD Music Television (1080p)  [1920x1080, 311 ms]
+[fail] City Eden Classic Music [Not 24/7]  (HTTP 404)
+[ok]   Cinema (Russia) (576p)  [1024x576, 265 ms]
+[ok]   Blokbaster HD (1080p)  [1920x1080, 109 ms]
+[ok]   Che! (576p)  [1024x576, 265 ms]
+[ok]   BRIDGE Hits (576p)  [1048x576, 109 ms]
+[ok]   Amedia Hit (1080p)  [1920x1080, 109 ms]
+[ok]   Big Planet (576p)  [hls, 686 ms]
+[fail] City Eden KinoSemya [Not 24/7]  (HTTP 503)
+[ok]   Afontovo  [hls, 686 ms]
+[ok]   Bober (576p)  [hls, 796 ms]
+[ok]   Arsenal (576p)  [hls, 875 ms]
+[ok]   City Eden Birma Play [Not 24/7]  [hls, 561 ms]
+[ok]   City Eden AutoGid [Not 24/7]  [hls, 578 ms]
+[ok]   Classic Music (1080p)  [1920x1080, 172 ms]
+[ok]   Arkhyz 24 (1080p)  [1920x1080, 952 ms]
+[fail] Bollywood (576p)  (HTTP 403)
+[ok]   Bollywood HD Russia (576p)  [1920x1080, 436 ms]
+[ok]   City Eden Recepty Gurmana [Not 24/7]  [hls, 186 ms]
+[fail] A2 (576p)  (HTTP 403)
+[ok]   City Eden KinoArt [Not 24/7]  [hls, 484 ms]
+[ok]   City Eden KinoAsia [Not 24/7]  [hls, 484 ms]
+[fail] DocuBox Russia (1080p)  (HTTP 403)
+[ok]   City Eden KinoAction [Not 24/7]  [hls, 515 ms]
+[ok]   City Eden KinoDetektiv [Not 24/7]  [hls, 532 ms]
+[ok]   City Eden KinoMistika [Not 24/7]  [hls, 469 ms]
+[ok]   City Eden KinoKomediya [Not 24/7]  [hls, 483 ms]
+[ok]   City Eden MedZdrav [Not 24/7]  [hls, 452 ms]
+[ok]   City Eden KinoDok [Not 24/7]  [hls, 546 ms]
+[fail] Detvora+ (1080p)  (connect error)
+[ok]   Dikaya okhota HD (1080p)  [1920x1080, 171 ms]
+[ok]   Dom kino (576p)  [1048x576, 203 ms]
+[ok]   City Eden Sirtaki TV [Not 24/7]  [hls, 609 ms]
+[fail] Detskoe kino [Not 24/7]  (HTTP 503)
+[ok]   Dom kino Premium HD (1080p)  [1920x1080, 171 ms]
+[ok]   Current Time TV (1080p)  [1920x1080, 796 ms]
+[ok]   Domashniy (576p)  [1920x1080, 172 ms]
+[ok]   Dikaya rybalka HD (1080p)  [1920x1080, 171 ms]
+[ok]   Dorama HD (1080p)  [1920x1080, 155 ms]
+[ok]   City Eden Play [Not 24/7]  [hls, 780 ms]
+[ok]   City Eden TV [Not 24/7]  [hls, 844 ms]
+[fail] Euronews Russian (1080p)  (HTTP 403)
+[ok]   DanceHits80  [hls, 438 ms]
+[ok]   Detskiy (576p)  [hls, 625 ms]
+[ok]   City Eden TeleNovella [Not 24/7]  [hls, 859 ms]
+[fail] Extreme Sports Channel HD (1080p)  (HTTP 403)
+[ok]   Duma TV (720p)  [1280x720, 203 ms]
+[ok]   Dushevnoe HD (1080p)  [1920x1080, 155 ms]
+[fail] Fast&FunBox (Russia) HD (1080p)  (HTTP 404)
+[ok]   Dom kino International (576p)  [hls, 515 ms]
+[ok]   Domashnie Zhivotnye (576p)  [hls, 578 ms]
+[ok]   Dorama (576p)  [hls, 515 ms]
+[ok]   Evrokino HD (1080p)  [1920x1080, 172 ms]
+[ok]   Drive (576i)  [hls, 546 ms]
+[fail] FoodTime (1080p)  (HTTP 403)
+[ok]   Angel TV Russian (720p)  [1280x720, 1155 ms]
+[ok]   Fashion&LifeStyle (1080p)  [1920x1080, 171 ms]
+[ok]   First Music Channel (1080p)  [ts, 265 ms]
+[fail] FX (1080p)  (HTTP 403)
+[fail] FX Life (576p)  (HTTP 403)
+[ok]   Eurasia (720p)  [hls, 625 ms]
+[fail] Glazami Turista (1080p)  (HTTP 403)
+[ok]   Fox (Russia) (576p)  [1920x1080, 171 ms]
+[ok]   Fox Life (576p)  [1920x1080, 171 ms]
+[ok]   Evrokino (576p)  [hls, 546 ms]
+[ok]   Friday! (576p)  [1920x1080, 172 ms]
+[ok]   City Eden KinoDrama [Not 24/7]  [hls, 1859 ms]
+[ok]   City Eden KinoKlassika [Not 24/7]  [hls, 1844 ms]
+[ok]   City Eden KinoFantastika [Not 24/7]  [hls, 1907 ms]
+[fail] History 2 (Russia) (1080p)  (HTTP 403)
+[ok]   FON Music (576p)  [hls, 594 ms]
+[ok]   Friday! International Kazakhstan (576p)  [hls, 546 ms]
+[ok]   Gulli Girl (720p)  [hls, 608 ms]
+[ok]   India (576p)  [hls, 516 ms]
+[ok]   Istoki (1080p)  [1047x576, 640 ms]
+[ok]   360° (1080p)  [1920x1080, 436 ms]
+[ok]   Channel 10 (Russia) (576i)  [1920x1080, 561 ms]
+[ok]   2x2 (576i)  [1920x1080, 546 ms]
+[fail] Kamedi HD (1080p)  (HTTP 403)
+[fail] Kapitan Fantastika HD (1080p)  (HTTP 403)
+[ok]   Kapitan Fantastika (1080p)  [1920x1080, 171 ms]
+[ok]   360° News (1080p)  [1920x1080, 4030 ms]
+[fail] KHL Prime (1080p)  (HTTP 403)
+[ok]   Aris 24 (720p) [Not 24/7]  [1280x720, 4890 ms]
+[ok]   Channel-16 (406p) [Not 24/7]  [720x406, 4905 ms]
+[ok]   Channel 8 Novosibirsk (480i)  [854x480, 5015 ms]
+[fail] Amedia Premium (720p)  (timeout)
+[fail] BRIDGE Deluxe (1080p)  (timeout)
+[fail] A1 (576p)  (timeout)
+[fail] ART (Russia) (576p)  (timeout)
+[fail] .red (576p)  (timeout)
+[fail] Ani (576p)  (timeout)
+[fail] 6 TV Gorlovka (720p) [Geo-blocked]  (timeout)
+[fail] Boks TV (720p)  (timeout)
+[fail] Carousel (1080p)  (timeout)
+[fail] 555 (720p)  (timeout)
+[ok]   Kino 1 (Russia) [Not 24/7]  [hls, 171 ms]
+[fail] Bolt (Russia) (576p)  (timeout)
+[fail] Kino 24 (720p)  (connect error)
+[ok]   KinoHit (576p)  [1920x1080, 203 ms]
+[ok]   Kinosemja (576p)  [1920x1080, 171 ms]
+[ok]   Kinokomedija (576p)  [1920x1080, 172 ms]
+[ok]   Kinopokaz (576p)  [1920x1080, 172 ms]
+[ok]   Kinouzhas (576p)  [1920x1080, 172 ms]
+[ok]   Kino TV HD (1080p)  [1920x1080, 297 ms]
+[ok]   Kinopremyera HD (1080p)  [hls, 532 ms]
+[ok]   Komediynoe HD (1080p)  [1920x1080, 155 ms]
+[ok]   Komedia (576p)  [1048x576, 172 ms]
+[ok]   KN Music TV  [hls, 344 ms]
+[fail] Kto est kto (576p)  (HTTP 403)
+[fail] Channel One (Russia) (1080p)  (timeout)
+[fail] Da Vinci (Russia) (576p)  (timeout)
+[ok]   Krik-TV (1080p)  [1920x1080, 280 ms]
+[fail] Dikij (576p)  (timeout)
+[fail] Doctor (1080p)  (timeout)
+[ok]   Kuhnya (576p)  [1048x576, 171 ms]
+[fail] Astrahan.Ru Sport (720p)  (timeout)
+[fail] Channel One (Russia) HD (720p)  (timeout)
+[fail] Astrahan.Ru TV (480p)  (timeout)
+[fail] BST (576p)  (timeout)
+[fail] 5 minut tishiny (1080p)  (timeout)
+[fail] Arktika 24 (1080p)  (timeout)
+[fail] Channel 8 Krasnoyarsk HD (1080p)  (timeout)
+[fail] Dom kino Premium (1080p)  (timeout)
+[fail] 3ABN Russia (720p)  (timeout)
+[fail] AIST TV (1080p)  (timeout)
+[fail] Don 24 (1080p)  (timeout)
+[fail] 86 (1080p) [Not 24/7]  (timeout)
+[fail] Astrahan 24 (720p)  (timeout)
+[fail] Balabol (1080p)  (timeout)
+[fail] Dagestan (1080p)  (timeout)
+[fail] Channel 12 (1080p)  (timeout)
+[fail] Crimea 24  (timeout)
+[fail] Bashkortostan 24 (1080p)  (timeout)
+[fail] Belgorod 24 (1080p)  (timeout)
+[ok]   Kulinar TV (576p)  [hls, 422 ms]
+[fail] Match! Igra HD (1080p)  (HTTP 403)
+[fail] Match! Ultra (1080p)  (HTTP 403)
+[fail] English Class (1080p)  (timeout)
+[ok]   Match! Boets (576p)  [1920x1080, 171 ms]
+[ok]   Mama (576p)  [1048x576, 171 ms]
+[fail] Europa Plus TV Belarus (576p)  (timeout)
+[fail] Europa Plus TV (1080p)  (timeout)
+[ok]   Mezzo Live (1080p)  [1920x1080, 186 ms]
+[fail] LenTV24  (not a stream (html/json))
+[ok]   LDPR TV (1080p)  [1920x1080, 233 ms]
+[ok]   Lapki Live (576p)  [hls, 389 ms]
+[fail] FAN (1080p)  (timeout)
+[fail] Extreme Sports Channel (576p)  (timeout)
+[fail] Mosfilm Gold Collection (576p)  (HTTP 404)
+[fail] Feniks plus Kino (576p)  (timeout)
+[ok]   Maidan (720p)  [1280x720, 421 ms]
+[fail] First Music Channel Russia (1080p)  (timeout)
+[ok]   Match! Planeta (576p)  [hls, 375 ms]
+[fail] Multimania (576p)  (connect error)
+[ok]   Kuban 24 SD [Geo-blocked]  [hls, 1125 ms]
+[fail] MusicBox Gold (576p)  (HTTP 403)
+[fail] FashionTV (Russia) (1080p)  (timeout)
+[fail] Football (720p)  (timeout)
+[ok]   Moya stikhiya HD (1080p)  [1920x1080, 172 ms]
+[ok]   Millet (720p)  [hls, 625 ms]
+[fail] Muzhskoy (1080p)  (HTTP 403)
+[fail] Enisey (576p)  (timeout)
+[fail] Gagsnetwork (576p)  (timeout)
+[ok]   Mir Seriala (576p)  [1048x576, 280 ms]
+[ok]   Mir Kazakhstan (576p)  [1024x576, 438 ms]
+[ok]   Muzhskoe kino (576p)  [1920x1080, 172 ms]
+[fail] Nashe HD (1080p)  (HTTP 403)
+[ok]   Muzyka 1 [Not 24/7]  [hls, 311 ms]
+[fail] Hit HD (1080p)  (timeout)
+[fail] Hollywood (1080p)  (timeout)
+[ok]   Muzyka Live (576p)  [1048x576, 155 ms]
+[ok]   Muzyka Kino [Not 24/7]  [hls, 264 ms]
+[ok]   Muzyka Pervogo (576p)  [1048x576, 171 ms]
+[ok]   Magnat (1080p)  [1920x1080, 1030 ms]
+[ok]   Mult International (576p)  [hls, 515 ms]
+[fail] Illusion+ (576p)  (timeout)
+[fail] National Geographic (Russia) HD (1080p)  (HTTP 403)
+[ok]   Nano (576p)  [1920x1080, 171 ms]
+[fail] National Geographic Wild (Russia) HD (1080p)  (HTTP 403)
+[ok]   Nano HD (1080p)  [1920x1080, 202 ms]
+[ok]   Nashe muzhskoe HD (1080p)  [1920x1080, 155 ms]
+[fail] Novyi Russkii (720p)  (connect error)
+[fail] Indiyskoye Kino (576p)  (timeout)
+[fail] National Geographic (Russia) (1080p)  (HTTP 404)
+[ok]   Nickelodeon (Russia) (576p)  [1920x1080, 171 ms]
+[fail] Gorodskoy telekanal (720p)  (timeout)
+[fail] Hope Channel Russia (720p)  (timeout)
+[fail] Gubernia Samara (576p)  (timeout)
+[fail] Govorit Moskva (720p)  (timeout)
+[ok]   Horoshee Kino (720p)  [1920x1080, 5828 ms]
+[fail] NTV (Russia) (576p)  (HTTP 404)
+[fail] Mir (720p)  (segment HTTP 403)
+[ok]   NovgorOblTV [Geo-blocked]  [hls, 1186 ms]
+[ok]   NTK 21 [Geo-blocked]  [hls, 891 ms]
+[fail] Groznyj  (timeout)
+[ok]   NTV Series (576p)  [1024x576, 171 ms]
+[fail] Istoriya (576p)  (timeout)
+[ok]   NTV-Hit (576p)  [1024x576, 203 ms]
+[fail] Ingushetia (1080p)  (timeout)
+[ok]   O! (576p)  [1048x576, 171 ms]
+[ok]   Izvestia (1080p)  [1920x1080, 4500 ms]
+[ok]   NVK Sakha (1080p) [Not 24/7]  [1920x1080, 984 ms]
+[ok]   O! International (576p)  [hls, 500 ms]
+[ok]   Ohotnik i rybolov HD (1080p)  [1920x1080, 172 ms]
+[ok]   Ohotnik i rybolov (576i)  [hls, 655 ms]
+[ok]   Okhota i rybalka (576p)  [1048x576, 171 ms]
+[ok]   Okko Futbol (1080p)  [1920x1080, 172 ms]
+[ok]   Okko Prajm Sport (1080p)  [1920x1080, 203 ms]
+[ok]   Okko Sport (1080p)  [1920x1080, 280 ms]
+[fail] KHL (720p)  (timeout)
+[ok]   Moya Planeta (1080p)  [hls, 313 ms]
+[ok]   Oruzhie (576p)  [hls, 500 ms]
+[fail] Kavkaz 24 (576p)  (timeout)
+[fail] Kineko (1080p)  (timeout)
+[ok]   MMA-TV.com (1080p)  [1920x1080, 2311 ms]
+[ok]   NTV (Russia) HD (1080p)  [1920x1080, 453 ms]
+[ok]   Ostrosyuzhetnoye HD (1080p)  [1920x1080, 186 ms]
+[ok]   OTR (576p)  [1920x1080, 217 ms]
+[fail] Kino TV (720p)  (timeout)
+[fail] Kinopremyera (1080p)  (timeout)
+[fail] Kinopokaz HD (1080p)  (timeout)
+[fail] KinoSat (576p)  (timeout)
+[fail] Kinomix (576p)  (timeout)
+[fail] Kinoseriya (1080p)  (timeout)
+[fail] Kinosvidanie (576p)  (timeout)
+[fail] Pobeda (1080p)  (HTTP 403)
+[fail] Pervyy Kosmicheskiy HD (1080p)  (HTTP 403)
+[fail] Kluch (576p)  (timeout)
+[ok]   Premialnoe HD (1080p)  [1920x1080, 155 ms]
+[ok]   Priklyucheniya HD (1080p)  [1920x1080, 172 ms]
+[ok]   Perviy Krymskiy (720p)  [hls, 546 ms]
+[fail] Pro100TV (576p)  (connect error)
+[fail] KVN TV (576p)  (timeout)
+[fail] Kuban 24 (480p) [Geo-blocked]  (timeout)
+[fail] Pro Lyubov HD (1080p)  (HTTP 403)
+[ok]   Priklyucheniya (576p)  [hls, 546 ms]
+[fail] Kuraj-TV (576p)  (timeout)
+[fail] Kongress TV (1080p)  (timeout)
+[fail] Lugansk 24  (timeout)
+[fail] Legendarnyy 24  (timeout)
+[fail] Leomax 24 (1080p)  (timeout)
+[fail] Mir +2 (540p) [Not 24/7]  (timeout)
+[fail] Mir 24 (1080p)  (timeout)
+[fail] Match! Arena (720p)  (timeout)
+[fail] Match! Igra (720p)  (timeout)
+[fail] Live Music Channel HD (1080p)  (timeout)
+[fail] Match! Strana (720p)  (timeout)
+[fail] MCM Top (576p)  (timeout)
+[fail] REN TV HD (1080p)  (HTTP 403)
+[fail] Mir +4 (576p)  (timeout)
+[fail] Romantichnoe HD (1080p)  (HTTP 403)
+[ok]   Retro (576p)  [1024x576, 155 ms]
+[ok]   Rodnoe Kino (576p)  [1048x576, 172 ms]
+[fail] Mir Belogorya (720p) [Geo-blocked]  (timeout)
+[ok]   Red Line (480p)  [854x480, 375 ms]
+[fail] Mult (1080p)  (timeout)
+[fail] Mult i muzyka (576p)  (timeout)
+[fail] Muz-TV (576p)  (timeout)
+[ok]   RTG TV HD (1080p)  [1920x1080, 171 ms]
+[ok]   RT Balkan (1080p)  [1920x1080, 530 ms]
+[ok]   RT Documentary Russian (1080p)  [1920x1080, 546 ms]
+[ok]   NTM (720p) [Not 24/7]  [1280x720, 4921 ms]
+[fail] Nash Kinopokaz HD (576p)  (timeout)
+[ok]   NTS (1080p) [Not 24/7]  [1920x1080, 4859 ms]
+[fail] Nashe Lubimoe Kino (576p)  (timeout)
+[fail] Nashe Novoe Kino (1080p)  (timeout)
+[fail] National Geographic Wild (Russia) (1080p)  (timeout)
+[fail] Nauka (Russia) (1080p)  (timeout)
+[fail] Nostalgia (Russia) (576p)  (timeout)
+[fail] Novorossiya TV (1080p) [Geo-blocked]  (timeout)
+[ok]   Russia-K (576p)  [1048x576, 155 ms]
+[fail] NST (576p)  (timeout)
+[fail] Russian Extreme (576p)  (HTTP 403)
+[fail] Mir HD (1080p) [Not 24/7]  (timeout)
+[fail] NTV (Russia) +1 (576p)  (timeout)
+[fail] NTV (Russia) +2 (576p)  (timeout)
+[fail] Nika TV (576p) [Not 24/7]  (timeout)
+[fail] Mir +7 (540p)  (timeout)
+[fail] Moy mir (720p)  (timeout)
+[fail] Moskva 24 (1080p)  (timeout)
+[fail] Moskva. Doveriye (576p)  (timeout)
+[fail] MTV Volgograd (720p) [Not 24/7]  (timeout)
+[fail] Nizhniy Novgorod 24 (1080p)  (timeout)
+[fail] Nevskiy (1080p)  (timeout)
+[fail] NTV (Russia) +4 (576p)  (timeout)
+[fail] Muz Soyuz (576p)  (timeout)
+[fail] NTV Law (576p)  (timeout)
+[ok]   Rybolov (576p)  [1920x1080, 202 ms]
+[ok]   Russkiy Bestseller (576p)  [1048x576, 219 ms]
+[ok]   Russkiy Detektiv (576p)  [1024x576, 219 ms]
+[ok]   Russian MusicBox (576p)  [1920x1080, 219 ms]
+[ok]   Russkiy Illusion (576p)  [hls, 515 ms]
+[ok]   Rybalka i okhota (576p)  [hls, 563 ms]
+[ok]   Samara-GIS (1080p) [Not 24/7]  [1920x1080, 546 ms]
+[ok]   Ryzhiy (576i)  [hls, 594 ms]
+[fail] NTV Style (576p)  (timeout)
+[ok]   Sarafan (576p)  [1048x576, 171 ms]
+[ok]   Setanta Sports 1 HD  [hls, 561 ms]
+[fail] o2tv (720p)  (timeout)
+[fail] NTV Vitrina (720p)  (timeout)
+[fail] NTV (Russia) +7 (576p)  (timeout)
+[ok]   Shokiruyushchee HD (1080p)  [1920x1080, 171 ms]
+[fail] Ocean-TV (576p)  (timeout)
+[fail] Oplot TV (1080p) [Geo-blocked]  (timeout)
+[fail] Oplot TV SD (1080p) [Geo-blocked]  (timeout)
+[ok]   RU.TV (1080p)  [1920x1080, 203 ms]
+[ok]   Rus (576p)  [1048x576, 375 ms]
+[fail] Oplot 2 (720p) [Geo-blocked]  (timeout)
+[ok]   Simferopol 24  [hls, 655 ms]
+[fail] OSN  (timeout)
+[fail] Osetiya-Iryston (1080p)  (timeout)
+[fail] OTV-Prim  (timeout)
+[fail] Otkritiy mir. Zdorove (576p)  (timeout)
+[ok]   Smotrim Chestnyy Detektiv (1080p)  [1920x1080, 438 ms]
+[fail] Poehali! (1080p)  (timeout)
+[fail] Perviy otdel (1080p)  (timeout)
+[fail] Pervyy Respublikanskiy  (timeout)
+[fail] Patriot (720p)  (timeout)
+[fail] Pes (1080p)  (timeout)
+[fail] Russia-1 (1080p)  (connect error)
+[ok]   Sochi24 (720p)  [1280x720, 421 ms]
+[ok]   Sochi Live (720p) [Not 24/7]  [1280x720, 297 ms]
+[fail] Pro Lyubov (1080p)  (timeout)
+[fail] Prosveshchenie (576p)  (timeout)
+[fail] SSSR TV (1080p)  (HTTP 403)
+[fail] REN TV (576p)  (timeout)
+[fail] Radost Moya (576p)  (timeout)
+[fail] RBK-TV (576p)  (timeout)
+[ok]   Star Family (1080p)  [hls, 203 ms]
+[ok]   Star Cinema  [hls, 327 ms]
+[fail] START Air HD (1080p)  (HTTP 403)
+[fail] RTG TV (720p)  (timeout)
+[ok]   SONGTV Russia  [hls, 500 ms]
+[fail] Strashnoe HD (1080p)  (HTTP 403)
+[fail] START World HD (1080p)  (HTTP 403)
+[ok]   STS HD (1080p)  [1920x1080, 203 ms]
+[fail] Prodvizhenie (1080p)  (timeout)
+[fail] Prima (Russia) (1080p)  (timeout)
+[fail] Radio 1 (Russia) (720p) [Geo-blocked]  (timeout)
+[fail] Pro Business (720p)  (timeout)
+[ok]   START World (576p)  [hls, 592 ms]
+[ok]   Subbota! HD (1080p)  [1920x1080, 171 ms]
+[fail] Russia-24 HD (1080p)  (timeout)
+[ok]   STS kids International (576p)  [hls, 530 ms]
+[fail] Radio Rossii (720p)  (timeout)
+[fail] RU.TV Kids (720p)  (timeout)
+[fail] Radio Shanson (720p) [Not 24/7]  (timeout)
+[fail] Russia-1 +5 (1080p)  (timeout)
+[fail] Rossiya 1 Vainah (576i)  (timeout)
+[fail] Russia-1 +6 (1080p)  (timeout)
+[fail] Radio Mir (720p)  (timeout)
+[fail] RTVi (576p)  (timeout)
+[fail] Russia-1 +4 (1080p)  (timeout)
+[fail] Russian Extreme Ultra (1440p)  (timeout)
+[fail] Russkiy roman (1080p)  (timeout)
+[fail] Teleputeshestviya (576p)  (HTTP 403)
+[fail] TERRA (1080p)  (HTTP 403)
+[fail] Sankt-Peterburg (576p)  (timeout)
+[ok]   T24 (576p)  [1048x576, 202 ms]
+[fail] TNT4 HD (1080p)  (HTTP 403)
+[fail] RZD TV (1080p) [Geo-blocked]  (HTTP 403)
+[ok]   TiJi (576p)  [1044x576, 155 ms]
+[fail] TNT HD (1080p)  (HTTP 404)
+[fail] Saphire (1080p)  (timeout)
+[fail] Setanta Sports 1  (timeout)
+[ok]   TNT4 (576p)  [1024x576, 219 ms]
+[fail] Tochka.rf (576p)  (HTTP 403)
+[ok]   TNT (576p)  [1920x1080, 155 ms]
+[ok]   TNT International Belarus (1080p)  [hls, 280 ms]
+[fail] Setanta Sports 2  (timeout)
+[fail] Seven (576p)  (timeout)
+[fail] Russia-24 (1080p)  (timeout)
+[fail] Russia-1 +9 (1080p)  (timeout)
+[fail] Russia-K HD (1080p)  (timeout)
+[fail] Russia-K +7 (1080p)  (timeout)
+[fail] Russia-1 +8 (1080p)  (timeout)
+[fail] Russia-1 HD (1080p)  (timeout)
+[fail] Russia-K +2 (1080p)  (timeout)
+[fail] Russia-K +4 (1080p)  (timeout)
+[fail] Russia-1 +7 (1080p)  (timeout)
+[ok]   TNV-Tatarstan (720p)  [1280x720, 407 ms]
+[fail] Shanson TV (576p)  (timeout)
+[ok]   TKR (1080p) [Not 24/7]  [1280x720, 733 ms]
+[fail] STS Love (576i)  (segment HTTP 403)
+[ok]   TNV-Planet (576p)  [hls, 578 ms]
+[ok]   TV 21 International (576p)  [1024x576, 171 ms]
+[ok]   Tochka otryva (576p)  [hls, 609 ms]
+[ok]   Travel+Adventure HD (1080p)  [1920x1080, 171 ms]
+[ok]   TV Rain (1080p) [Geo-blocked]  [1920x1080, 296 ms]
+[ok]   TV-3 (576p)  [1024x576, 188 ms]
+[ok]   TV BRICS Russian (1080p)  [1920x1080, 203 ms]
+[ok]   TV 21 (576p)  [1048x576, 186 ms]
+[ok]   TV-3 HD (1080p)  [1920x1080, 157 ms]
+[ok]   Tooku (1080p)  [1920x1080, 530 ms]
+[ok]   Trace Sport Stars Russia (720p)  [hls, 594 ms]
+[ok]   TV Centr International (576p)  [hls, 592 ms]
+[fail] Shchyolkovskoe TV (576p) [Not 24/7]  (timeout)
+[ok]   Unknown Russia HD (1080p)  [1920x1080, 186 ms]
+[fail] Shayan TV (1080p)  (timeout)
+[fail] S1 (1080p) [Not 24/7]  (timeout)
+[fail] Samara 24 (1080p)  (timeout)
+[fail] Sever  (timeout)
+[fail] Sankt-Peterburg HD (720p)  (timeout)
+[fail] Salyam (576p)  (timeout)
+[fail] Telecafe (Russia) (720p)  (segment HTTP 403)
+[fail] V mire zhivotnykh HD (1080p)  (HTTP 403)
+[ok]   Usadba (576p)  [1048x576, 171 ms]
+[ok]   V mire zhivotnykh (1080p)  [1920x1080, 155 ms]
+[ok]   TVK (Russia) (576p)  [1024x576, 733 ms]
+[fail] Velvet. Golden Collection (1080p)  (connect error)
+[fail] Velvet. Sovetskoe Kino (1080p)  (connect error)
+[fail] Velvet. Scary (1080p)  (connect error)
+[fail] Velvet. Mentovskiye Serialy (1080p)  (connect error)
+[fail] Velvet. Series Hits (1080p)  (connect error)
+[fail] Shot TV (576p)  (timeout)
+[fail] Velvet. Svaty (1080p)  (connect error)
+[fail] Velvet. World Series (1080p)  (connect error)
+[fail] viju Nature HD (1080p)  (HTTP 403)
+[ok]   Univer TV (1080p)  [1920x1080, 750 ms]
+[ok]   V gostyakh u skazki (1080p)  [hls, 592 ms]
+[ok]   viju TV1000 (576p)  [1920x1080, 171 ms]
+[ok]   viju Explore (576p)  [1920x1080, 171 ms]
+[ok]   viju TV1000 action (576p)  [1920x1080, 171 ms]
+[ok]   viju+ Comedy HD (1080p)  [1920x1080, 171 ms]
+[ok]   viju+ Megahit HD (1080p)  [1920x1080, 172 ms]
+[fail] viju+ Sport HD (1080p)  (HTTP 403)
+[fail] Shopping Live (720p)  (timeout)
+[fail] Shef (1080p)  (timeout)
+[fail] Sibir 24 (1080p)  (timeout)
+[ok]   viju+ Planet HD (1080p)  [1920x1080, 171 ms]
+[ok]   viju TV1000 russkoe (576p)  [hls, 342 ms]
+[ok]   viju+ Premiere HD (1080p)  [1920x1080, 171 ms]
+[ok]   Vetta 24 (576p) [Not 24/7]  [720x480, 405 ms]
+[ok]   viju+ Serial HD (1080p)  [1920x1080, 171 ms]
+[ok]   viju+ Sport (576p)  [1920x1080, 172 ms]
+[ok]   viju Nature (576p)  [hls, 563 ms]
+[fail] Velvet. European Movies (1080p)  (connect error)
+[ok]   Zagorodnaya Zhizn (576p)  [1002x576, 188 ms]
+[ok]   Yalta TV (480p) [Geo-blocked]  [ts, 500 ms]
+[ok]   Ugra-TV (1080p)  [1920x1080, 2125 ms]
+[ok]   Zhivaya priroda (1080p)  [1024x576, 186 ms]
+[ok]   Vkus (576p)  [1024x576, 1202 ms]
+[ok]   Zdorovoe TV (576p)  [hls, 561 ms]
+[ok]   Zhivaya Planeta (576p)  [hls, 609 ms]
+[ok]   Zhivaya priroda HD (1080p)  [1920x1080, 188 ms]
+[fail] Vremya (720p)  (segment HTTP 403)
+[ok]   START Air (1080p)  [1920x1080, 296 ms]
+[fail] Zvezda HD (1080p)  (HTTP 403)
+[ok]   Zvezda (1080p)  [1920x1080, 172 ms]
+[ok]   Zoopark (576i)  [hls, 639 ms]
+[fail] 100% NEWS (576p)  (HTTP 403)
+[ok]   24KZ (576p)  [hls, 515 ms]
+[fail] Sibir 24 KYA (1080p)  (timeout)
+[ok]   Soyuz (576p)  [1920x1080, 3109 ms]
+[ok]   Subbota! (1080p)  [1920x1080, 280 ms]
+[fail] Smotrim 100% Lyubov (720p)  (timeout)
+[fail] Skoraya pomoshch (1080p)  (timeout)
+[fail] Smotrim 100% Fakty (720p)  (timeout)
+[fail] Smotrim 100% Detskoe (720p)  (timeout)
+[fail] Smotrim 100% Klassika (720p)  (timeout)
+[fail] Abaza TV (1080p)  (HTTP 403)
+[ok]   Armenia TV Satellite (576p)  [1048x576, 171 ms]
+[ok]   Almaty TV (576p)  [hls, 500 ms]
+[ok]   ATR (1080p)  [1920x1080, 171 ms]
+[ok]   Aqlvoy  [hls, 609 ms]
+[fail] Ala-Too 24 (480p) [Not 24/7]  (HTTP 403)
+[ok]   Atameken Business (576p)  [hls, 546 ms]
+[fail] Balti TV (1080p) [Geo-blocked]  (ClientOSError)
+[fail] ARTN TV (1080p) [Not 24/7]  (HTTP 403)
+[ok]   U (720p)  [1280x720, 188 ms]
+[ok]   Tsargrad TV (1080p) [Geo-blocked]  [1920x1080, 203 ms]
+[ok]   BabyFirst (720p)  [1920x1080, 436 ms]
+[fail] Smotrim 100% Prazdnik (720p)  (timeout)
+[fail] Smotrim 100% Muzhskoe (720p)  (timeout)
+[fail] Solovyov Live (1080p)  (timeout)
+[fail] Solnce (576p)  (timeout)
+[ok]   Strana FM  [1280x720, 3875 ms]
+[fail] Bilim Ilim (480p) [Not 24/7]  (connect error)
+[fail] Belsat TV  (HTTP 403)
+[fail] Spas (576p)  (timeout)
+[ok]   Black Sea TV  [hls, 453 ms]
+[ok]   Carousel International (576p)  [hls, 530 ms]
+[fail] STS kids (1080p)  (timeout)
+[fail] STS kids HD (1080p)  (timeout)
+[ok]   Channel 7 (Kazakhstan) (576p)  [1048x576, 203 ms]
+[fail] Sportivnyy (1080p)  (timeout)
+[fail] Soyuzny (576p)  (timeout)
+[ok]   Channel 5 International (576p)  [1024x576, 94 ms]
+[fail] SuperGeroi (1080p)  (timeout)
+[ok]   Dacha (1080p)  [hls, 280 ms]
+[ok]   Channel 9 (Israel) (1080p)  [1920x1080, 469 ms]
+[ok]   Tolk (720p)  [1280x720, 4390 ms]
+[ok]   Channel 8 International (576p) [Geo-blocked]  [1024x576, 484 ms]
+[fail] ElTR (480p) [Not 24/7]  (connect error)
+[ok]   Channel One CIS (576p)  [hls, 561 ms]
+[fail] STS (576p)  (timeout)
+[fail] Start Triumf (1080p)  (timeout)
+[fail] Exclusiv TV  (NonHttpUrlClientError)
+[fail] Detski mir (576p)  (HTTP 403)
+[ok]   Channel One Eurasia (576p)  [hls, 546 ms]
+[fail] Teatr (576p)  (timeout)
+[fail] Gribu visu zinat (576p)  (connect error)
+[ok]   Fauna (576p)  [1024x576, 217 ms]
+[ok]   Dasturxon TV (576p)  [hls, 657 ms]
+[ok]   FREEDOM (1080p)  [hls, 328 ms]
+[ok]   FilmUADrama (1080p)  [1920x1080, 344 ms]
+[fail] Tochka TV (576p)  (timeout)
+[fail] FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]  (HTTP 403)
+[ok]   Channel One (Russia) Europa (480p)  [hls, 1000 ms]
+[ok]   DW Russian (1080p)  [1920x1080, 609 ms]
+[fail] Tonus (576p)  (timeout)
+[fail] Top Secret (576p)  (timeout)
+[ok]   Kentron TV (1080p)  [1920x1080, 155 ms]
+[ok]   Hit FM  [1920x1080, 375 ms]
+[fail] Telplus (360p) [Not 24/7]  (timeout)
+[fail] Surgut 24  (timeout)
+[fail] Tamyr (576p)  (timeout)
+[fail] Svoyo TV (1080p)  (timeout)
+[fail] Telekanal Krasnodar (1080p)  (timeout)
+[fail] TeleDom  (timeout)
+[fail] Tavriya  (timeout)
+[fail] Travel+Adventure (1080p)  (timeout)
+[fail] TV-3 Belarus (576p)  (timeout)
+[fail] TV Centr (576p)  (timeout)
+[ok]   Kino 2 (1080p)  [1920x1080, 172 ms]
+[ok]   Kino 1 (Ukraine) (1080p)  [1920x1080, 171 ms]
+[fail] Movify Kino (576p)  (connect error)
+[fail] TV PRO  (timeout)
+[fail] KidZone Max (1080p) [Geo-blocked]  (HTTP 403)
+[ok]   ETV+ (720p)  [hls, 719 ms]
+[ok]   Jibek Joly (576p)  [hls, 500 ms]
+[ok]   KTK (576p)  [1048x576, 155 ms]
+[fail] Music (480p) [Not 24/7]  (HTTP 403)
+[fail] N4 (360p) [Not 24/7]  (connect error)
+[ok]   Moldova 1 (1080p)  [1920x1080, 234 ms]
+[fail] Tvoe TV (1080p)  (timeout)
+[ok]   Khabar (576p)  [hls, 500 ms]
+[fail] Tvoye TV Yumor (1080p)  (timeout)
+[fail] UDAR (1080p)  (timeout)
+[ok]   Law TV (1080p)  [1920x1080, 188 ms]
+[ok]   Moldova 2 (1080p)  [1920x1080, 250 ms]
+[fail] Next TV (1080p) [Not 24/7]  (connect error)
+[fail] Unikum (576p)  (timeout)
+[ok]   KinoBoevik (1080p)  [hls, 547 ms]
+[ok]   Vitrina TV (720p)  [1920x1080, 4375 ms]
+[ok]   Nashe Lubimoe Kino Ukraine (1080p)  [1920x1080, 171 ms]
+[ok]   Life TV (Estonia) (432p) [Not 24/7]  [hls, 530 ms]
+[ok]   Nauka (Ukraine) (576p)  [1024x576, 188 ms]
+[ok]   Nick Jr. (Russia) (576p)  [1048x576, 155 ms]
+[fail] Obshchestvennoe Nezavisimoe Televidenie (576p)  (HTTP 403)
+[fail] Osh Pirim (1080p) [Not 24/7]  (connect error)
+[ok]   Mana Tserkov' Onlayn (1080p) [Not 24/7]  [1920x1080, 594 ms]
+[fail] Mangystay (540p) [Not 24/7]  (HTTP 403)
+[ok]   Novyi Channel (1080p)  [1920x1080, 155 ms]
+[ok]   KTK HD (720p) [Not 24/7]  [1280x720, 421 ms]
+[ok]   Makon TV (576i)  [hls, 594 ms]
+[ok]   Mirovoe kino (1080p)  [hls, 561 ms]
+[ok]   NTK (576p)  [1048x576, 172 ms]
+[ok]   Multilandia (576p)  [hls, 483 ms]
+[fail] Unknown Russia (1080p)  (timeout)
+[fail] Ural 24 (1080p)  (timeout)
+[ok]   OTV (Estonia)  [hls, 155 ms]
+[ok]   MTRK (576p)  [1024x576, 546 ms]
+[ok]   New Channel Pop! (480p)  [640x352, 405 ms]
+[ok]   Yuvelirochka (576p)  [1920x1080, 3921 ms]
+[ok]   Peretz International (576p)  [1024x576, 155 ms]
+[ok]   Ost West 24 (1080p)  [1920x1080, 172 ms]
+[ok]   Naxcivan TV (720p)  [1280x720, 515 ms]
+[ok]   Love Nature (1080p)  [1920x1080, 625 ms]
+[ok]   RAZ 3 International  [hls, 203 ms]
+[ok]   Pervyy gorodskoy. Odessa (576p)  [720x576, 203 ms]
+[ok]   Quiz TV (1080p)  [1920x1080, 171 ms]
+[ok]   RAZ 1 (1080p)  [1920x1080, 171 ms]
+[ok]   Jibek Joly HD (1080p)  [1920x1080, 719 ms]
+[ok]   RAZ 2 (1080p)  [1920x1080, 171 ms]
+[fail] Setanta Sports+ Ukraine (1080p)  (HTTP 403)
+[fail] viju History (576p)  (timeout)
+[ok]   Nickelodeon CIS (1080p)  [1920x1080, 608 ms]
+[ok]   REN TV International (576p)  [1024x576, 217 ms]
+[ok]   Nicktoons CIS (1080p)  [1920x1080, 608 ms]
+[ok]   Love Nature HD (1080p)  [1920x1080, 813 ms]
+[fail] Sport (Kyrgyzstan) (480p) [Not 24/7]  (HTTP 403)
+[ok]   O'zbekiston (576p)  [hls, 578 ms]
+[ok]   Setanta Sports 1 Eurasia (1080p)  [1920x1080, 155 ms]
+[ok]   Setanta Sports 2 Eurasia (1080p)  [1920x1080, 172 ms]
+[ok]   Rada TV (720p)  [1280x720, 532 ms]
+[ok]   Svoboda  [hls, 155 ms]
+[ok]   Qazaqstan International  [hls, 594 ms]
+[ok]   Sport 1 Baltic (1080p)  [1920x1080, 155 ms]
+[ok]   RTR-Planeta (576p)  [hls, 375 ms]
+[ok]   Terra (576p)  [1024x576, 77 ms]
+[fail] TNT International SD (480p)  (HTTP 404)
+[ok]   STS International (576p)  [1024x576, 186 ms]
+[ok]   Silk Way (1080p)  [1920x1080, 407 ms]
+[fail] TV15 (1080p) [Not 24/7]  (connect error)
+[ok]   Rika TV (480p)  [640x480, 625 ms]
+[ok]   TV8 (Moldova)  [ts, 78 ms]
+[ok]   TBN Baltia (1080p)  [1920x1080, 265 ms]
+[fail] TV1000 Russian Kino Global  (HTTP 404)
+[ok]   RTN (United States)  [ts, 813 ms]
+[fail] TVRUS  (HTTP 404)
+[ok]   Sevimli TV (1080p)  [hls, 592 ms]
+[ok]   Travelxp Russia (1080p)  [1920x1080, 171 ms]
+[ok]   Trofei (1080p)  [1920x1080, 188 ms]
+[ok]   MyZen TV (1080p)  [1920x1080, 1203 ms]
+[ok]   TSV (1080p)  [1920x1080, 344 ms]
+[fail] Viasat Kino (576p)  (HTTP 404)
+[fail] Viasat Kino Action (576p)  (HTTP 404)
+[ok]   Taraqqiyot TV  [hls, 609 ms]
+[ok]   Viasat Epic Drama Ukraine (576p)  [1024x576, 140 ms]
+[ok]   TNT4 International (576p)  [hls, 516 ms]
+[ok]   Silk Way Cinema (1080p) [Geo-blocked]  [1920x1080, 155 ms]
+[ok]   Voprosy i Otvety (576p)  [1024x576, 155 ms]
+[fail] TV1.KG (1080p)  (HTTP 404)
+[ok]   RTVi US (1080p)  [1920x1080, 765 ms]
+[ok]   TV Mana Russkiy (1080p)  [1920x1080, 578 ms]
+[ok]   UzReport TV (1080p)  [hls, 577 ms]
+[ok]   Simon (720p) [Geo-blocked]  [1280x720, 1203 ms]
+[fail] Vostok 24 (1080p)  (timeout)
+[fail] YaPervyy (1080p)  (timeout)
+[fail] Vmeste-RF  (timeout)
+[fail] Vera 24  (timeout)
+[fail] Volgograd 24 (1080p)  (timeout)
+[fail] Za! TV  (timeout)
+[fail] Volga  (timeout)
+[fail] Vesti FM (720p)  (timeout)
+[fail] Zapad 24 (1080p)  (timeout)
+[ok]   Viasat Kino Comedy  [hls, 282 ms]
+[ok]   Viasat Kino World  [hls, 265 ms]
+[ok]   Viasat Serial  [hls, 250 ms]
+[ok]   Turkmenistan (406p) [Not 24/7]  [hls, 813 ms]
+[ok]   Ulytau  [1280x720, 813 ms]
+[fail] Zhivi! (1080p)  (timeout)
+[fail] Zoo TV (576p)  (timeout)
+[fail] Zvezda Plus (576p)  (timeout)
+[fail] Vital Drive  (timeout)
+[fail] Zvezda Plus HD (1080p)  (timeout)
+[ok]   Zo'r TV (576p)  [1920x1080, 1405 ms]
+[fail] 312 Kino (406p)  (timeout)
+[fail] 312 TV (406p)  (timeout)
+[ok]   Apsua TV  [1920x1080, 5140 ms]
+[fail] Belarus-2 HD (1080p)  (timeout)
+[fail] +TV (576p) [Geo-blocked]  (timeout)
+[fail] Belarus-1 (1080p)  (timeout)
+[fail] Belarus-1 HD (1080p)  (timeout)
+[fail] Belarus-5 HD (1080p)  (timeout)
+[fail] Belarus-4 Gomel  (timeout)
+[fail] Belarus-5 (1080p) [Not 24/7]  (timeout)
+[fail] Belarus-3 HD (1080p) [Not 24/7]  (timeout)
+[fail] Belarus-4 Vitebsk (1080p)  (timeout)
+[fail] Luxe TV (1080p)  (ClientOSError)
+[fail] Bug-TV (1080p)  (timeout)
+[fail] Belarus-5 Internet (1080p) [Not 24/7]  (timeout)
+[fail] Belarus-24 HD (1080p)  (timeout)
+[fail] CGTN Russian (1080p)  (timeout)
+[fail] eQtv  (timeout)
+[fail] Kvartal TV  (timeout)
+[fail] TVRUS+  (ClientOSError)
+[fail] Nash Kinomir (576p)  (timeout)
+[fail] NTV Mir (576p)  (timeout)
+[fail] Belarus-24 (576p)  (timeout)
+[fail] Ost West (576p)  (timeout)
+[fail] Qonaev Media  (timeout)
+[fail] Huzur TV (1080p) [Not 24/7]  (timeout)
+[fail] Perviy Informationniy HD (1080p)  (timeout)
+[fail] MuzzOne  (timeout)
+[fail] TNT International (480p)  (timeout)
+[fail] Vitebsk (576p)  (timeout)
+[fail] TDK 42  (timeout)
+[fail] RTR-Planeta Asia  (timeout)
+[fail] STV (Belarus) HD (720p)  (timeout)
+[fail] RTR-Planeta Europe (720p) [Geo-blocked]  (timeout)
+
+Проверено:    692 за 68 с
+Рабочих:      328
+Не работают:  364
+Итоги:        ok: 328, timeout: 258, http_4xx: 71, connect: 24, other: 8, http_5xx: 2, not_a_stream: 1
+Плейлист:     playlist.m3u (328 каналов)
+Отчёт:        report.json
