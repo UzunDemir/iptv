@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="ok.ru (Первый канал)",Первый канал. Прямой эфир
+#EXTVLCOPT:http-referrer=https://ok.ru/video/1115050286838
+https://vsd162.okcdn.ru/hls/528984312566.m3u8/sig/2OZkDL_oHhI/expires/1791693588697/srcIp/95.65.92.176/urls/178.237.23.61/clientType/0/srcAg/CHROME/mid/1115050286838/video.m3u8?p
