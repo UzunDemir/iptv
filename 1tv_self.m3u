@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS [cdn8.1internet.tv]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-4h.m3u8?cdn=https://cdn8.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS [cdn8.1internet.tv]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-4h.m3u8?cdn=https://cdn8.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS [edge06.1internet.tv]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-12h.m3u8?cdn=https://edge06.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS [1tv-live-gcore.servicecdn.ru]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-4h.m3u8?cdn=https://1tv-live-gcore.servicecdn.ru&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS [edge04.1internet.tv]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-12h.m3u8?cdn=https://edge04.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS [edge06.1internet.tv]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-12h.m3u8?cdn=https://edge06.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS [edge04.1internet.tv]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-12h.m3u8?cdn=https://edge04.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS [1tv-live-gcore.servicecdn.ru]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-4h.m3u8?cdn=https://1tv-live-gcore.servicecdn.ru&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS (аудио) [cdn2.1internet.tv]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-12h-audio.m3u8?cdn=https://cdn2.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS (аудио) [cdn2.1internet.tv]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-12h-audio.m3u8?cdn=https://cdn2.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS (аудио) [1tv-live-gcore.servicecdn.ru]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-12h-audio.m3u8?cdn=https://1tv-live-gcore.servicecdn.ru&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS (аудио) [1tv-live-gcore.servicecdn.ru]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-4h-audio.m3u8?cdn=https://1tv-live-gcore.servicecdn.ru&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS (аудио) [cdn2.1internet.tv]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-4h-audio.m3u8?cdn=https://cdn2.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS (аудио) [1tv-live-gcore.servicecdn.ru]
+https://mobdrm.1tv.ru/hls-live3/streams/1tv-dvr/1tv-4h-audio.m3u8?cdn=https://1tv-live-gcore.servicecdn.ru&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DVR 12ч HLS (аудио) [1tv-live-gcore.servicecdn.ru]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-12h-audio.m3u8?cdn=https://1tv-live-gcore.servicecdn.ru&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530551&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир HLS (аудио) [cdn2.1internet.tv]
+https://mobdrm.1tv.ru/hls-live2/streams/1tv-dvr/1tv-4h-audio.m3u8?cdn=https://cdn2.1internet.tv&netprav=/hls-vod4/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1791530550&s=RN6GgE8aMzuc5%2FHXMpgPYg1MRnyZ9Ghyd13edhL9m3XCcnZuqQXNakmhvc5rftHlfBJCBAjv7s8XWAxy4%2BKsJYJMiJkGc8Ant34ygNNFjWc%3D
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://1tv-live-gcore.servicecdn.ru/dash-live3/streams/1tv-dvr/1tvdash-audio.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://1tv-live-gcore.servicecdn.ru/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://1tv-live-gcore.servicecdn.ru/dash-live2/streams/1tv-dvr/1tvdash-audio.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://1tv-live-gcore.servicecdn.ru/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://cdn8.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://cdn2.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash-audio.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://cdn2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash-audio.mpd?e=1791530550
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Первый канал (свой поиск)",Первый канал — эфир DASH
+https://cdn8.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1791530550
